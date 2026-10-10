@@ -192,13 +192,13 @@ useEffect(() => {
 
             <div className="hero-socials">
               <span>CONNECT WITH ME</span>
-              <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub">
+              <a href="https://github.com/alokalex00/" target="_blank" rel="noreferrer" aria-label="GitHub">
                 <GitBranch size={19} />
               </a>
-              <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/alok-kumar-35070334a/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
                 <ExternalLink size={19} />
               </a>
-              <a href="mailto:your.email@example.com" aria-label="Email">
+              <a href="mailto:alokalex8292@gmail.com" aria-label="Email">
                 <Mail size={19} />
               </a>
             </div>
@@ -410,7 +410,7 @@ useEffect(() => {
               I'm always interested in learning, collaborating and exploring
               opportunities in frontend development.
             </p>
-            <a className="button button-primary" href="mailto:your.email@example.com">
+            <a className="button button-primary" href="mailto:alokalex8292@gmail.com">
               <Mail size={18} /> Say Hello <ArrowUpRight size={18} />
             </a>
             <div className="contact-links">
@@ -420,7 +420,7 @@ useEffect(() => {
               <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
                 <ExternalLink size={18} /> LinkedIn
               </a>
-              <a href="mailto:your.email@example.com">
+              <a href="mailto:alokalex8292@gmail.com">
                 <Mail size={18} /> Email
               </a>
             </div>
