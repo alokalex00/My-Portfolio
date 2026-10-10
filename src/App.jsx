@@ -414,7 +414,7 @@ useEffect(() => {
               <Mail size={18} /> Say Hello <ArrowUpRight size={18} />
             </a>
             <div className="contact-links">
-              <a href="https://github.com/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/alokalex00/" target="_blank" rel="noreferrer">
                 <GitBranch size={18} /> GitHub
               </a>
               <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
